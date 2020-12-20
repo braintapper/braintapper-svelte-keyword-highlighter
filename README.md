@@ -2,15 +2,9 @@
 
 
 
-# Usage
+# Example
 
-## Component Import
-
-Import the components you need in your <script> tag:
-
-```
-  import KeywordHighlighter from "braintapper-svelte-keyword-highlighter";
-```
+[Svelte REPL](https://svelte.dev/repl/2f7cb38344754fe5ae98b4ba21663186?version=3.31.0)
 
 
 

@@ -1,6 +1,6 @@
 {
     "name": "braintapper-svelte-keyword-highlighter",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Svelte component for highlighting keywords",
     "author": "braintapper",
     "license": "MIT",
